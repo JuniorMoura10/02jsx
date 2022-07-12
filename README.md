@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+## Aula de react básico com Ralf Lima.
+
+Nesta segunda aula ele fala da praticidade do uso do JSX (JavaScript XML). É possível observar na imagem a diferença de uso de código entre os dois e que o uso do JSX deixa o código bem mais enxuto!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
